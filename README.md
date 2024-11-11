@@ -162,3 +162,5 @@ MH42469c01-
 MH2af795c-
 #beelz
 MH330ebd4-
+#KANO
+MH3276aa80-
