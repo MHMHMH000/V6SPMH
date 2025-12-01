@@ -1,5 +1,3 @@
-#ANDIK
-MHde02c27e-
 #salaf
 MH1cd3a49a-
 MHe8336abd-
