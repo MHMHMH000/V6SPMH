@@ -15,8 +15,6 @@ MH3276aa80-
 MH9a5ad7e-
 #BOHA
 MHafb1d42-
-#GONDTES
-MHc0f7c21b-
 #WAKEONG
 MHd7a56a9e-
 MHda2b6ade-
