@@ -68,9 +68,6 @@ MH9a5ad7e-
 #ARJN
 MH9961136-
 MHbc68414-
-#WANI
-MHc4f9cc2a-
-MHb4c5ccf6-
 #KELLI
 MH87460e3-
 MHdec26a0e-
