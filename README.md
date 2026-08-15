@@ -40,9 +40,6 @@ MHbc68414-
 MH3276aa80-
 MH78b36a0b-
 MHd5316a07-
-#AND
-MHdc52428-
-MH60dfc8cb-
 #ZEN
 MH2aa2c4c5-
 #ARWI
@@ -69,3 +66,5 @@ MH281fcc8a-
 MH106ccce2-
 #LAB
 MH842acfd-
+#HAFI
+MH2c76667-
