@@ -14,10 +14,6 @@ MH264d64c-
 MHbe9301f-
 MH2a6b33d-
 #KATBER
-MH32df90b0-
-MH89dfc802-
-MHbc5b802-
-MHfb32ac5d-
 MHd8f66ace-
 MH4fa72ca9-
 MH89dfc802-
