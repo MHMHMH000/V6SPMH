@@ -47,5 +47,8 @@ MHc56409e-
 MH89f8cac8-
 #HAFI
 MH2c76667-
+#KAZ
+MHc424ca79-
+MH8974c4ad-
 #UME
 MHceebc0e-
