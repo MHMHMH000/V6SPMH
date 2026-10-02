@@ -2,8 +2,6 @@ pMH03ad9c6d0205-
 MH35addc15-
 #####
 #SALAF
-MH8d110de-
-MH301dcc1a-
 MH51626af1-
 MH690b0631-
 MHe8336abd-
@@ -14,9 +12,6 @@ MHbe9301f-
 MH2a6b33d-
 MH43942e48-
 #KATBER
-MH4fa72ca9-
-MH32df90b0-
-MHd8f66ace-
 MHfb32ac5d-
 MH811c90b-
 MH89dfc802-
