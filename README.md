@@ -8,8 +8,6 @@ MHe8336abd-
 MH8d110de-
 MH301dcc1a-
 #MRIC
-MH2cf4fcb-
-MH264d64c-
 MHbe9301f-
 MH2a6b33d-
 MH43942e48-
@@ -22,7 +20,6 @@ MHd8f66ace-
 MHfb32ac5d-
 MH811c90b-
 #MACOL
-MHd5316a07-
 MH3276aa80-
 #HAFI
 MH2c76667-
