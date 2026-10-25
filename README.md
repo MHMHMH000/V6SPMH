@@ -21,12 +21,8 @@ MH83bdc81e-
 MH3276aa80-
 MHd5316a07-
 #KAZ
-MHc904b3b-
-MH5947ca09-
 MH9a5ad7e-
 MHc000c474-
-#OKO
-MHceebc0e-
 #TIDE
 MHcf286a9a-
 #DIM
