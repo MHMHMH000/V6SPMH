@@ -8,8 +8,6 @@ MHe8336abd-
 MH8d110de-
 MH301dcc1a-
 #MRIC
-MH264d64c-
-MH2cf4fcb-
 MHbe9301f-
 MH2a6b33d-
 MH427572ef-
